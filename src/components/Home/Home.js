@@ -9,11 +9,11 @@ export default class Home extends Component {
           <button className='btn'>Math 1010</button>
         </Link>
        
-        <Link to="/classlist/english2010">
+        <Link to="/classlist/eng2010">
         <button className='btn'>English 2010</button>
         </Link>
 
-        <Link to="/classlist/biology2020">
+        <Link to="/classlist/bio2020">
         <button className='btn'>Biology 2020</button>
         </Link>
       </div>
